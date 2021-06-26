@@ -88,5 +88,3 @@ while True:
 		word_count() 
 	if event in ('About',):
 		about()
-
-
